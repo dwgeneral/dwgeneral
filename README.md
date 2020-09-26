@@ -3,7 +3,6 @@
 ### I'm Weidong
 
 - 🤟 working with Rust & Golang
-- 🏠 [https://windo.me](https://windo.me) 个人博客.
 - 📖 [云原生社区](https://cloudnative.to/)参与者.
 - 💻 正在探索 云原生、云游戏、边缘计算 等未来的科技基石
 
