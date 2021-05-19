@@ -2,7 +2,7 @@
 
 ### I'm Weidong
 
-- 🤟 working with Rust & Golang
+- 🤟 working with Golang & Rust
 - 💻 持续探索 技术、架构、商业 等科技赋能生活的基石 
 - 📖 [云原生社区](https://cloudnative.to/)参与者.
 
